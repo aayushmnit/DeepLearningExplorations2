@@ -1,4 +1,4 @@
-In this folder, I have trained a miniature version of VGG architecture using FastAI2 and Pytorch to solve a simple practice challenge on Analytics Vidhya's website - [Identify the Apparel](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/).
+In this folder, I have trained a miniature version of VGG architecture using FastAI2 and Pytorch to solve a simple practice challenge on Analytics Vidhya's website - [Identify the Apparel](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/). Here is where I stand with few hours of hacking - 
 ![alt text](./img/website_capture.PNG "Snapshot from leaderboard")
 
 Here is the problem statement - 
