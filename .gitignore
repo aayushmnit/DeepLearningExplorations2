@@ -1,5 +1,6 @@
 # Datasets
 data/
+*.csv
 
 ## Ignoring VS code
 .vscode/
