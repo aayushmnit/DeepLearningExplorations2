@@ -1,6 +1,7 @@
 # Datasets
 data/
 *.csv
+*/notebooks/*.ipynb
 
 ## Ignoring VS code
 .vscode/
