@@ -1,4 +1,4 @@
-Repo for tracking deep learning experiments with new FastAI 2 library.
+Exploring different Deep learning problems primarily (but not limited to) using fastai, fastaiaudio, 🤗Hugging Face Transformers and Pytorch Library
 
 ## Content
 
@@ -18,4 +18,5 @@ Repo for tracking deep learning experiments with new FastAI 2 library.
 
 ### Exploration Project
 1) [Solving NLP tasks on Shopify data](./7_Shopify/)
-    - Multi-Label Classification
+    - Multi-Label Classification using single sentences - Using FastAI, Hugging Face
+    - Multi-Label Classification using multiple sentences - HuggingFace
