@@ -10,7 +10,7 @@ Exploring different Deep learning problems primarily (but not limited to) using 
 5) [MiniVGGNet Using FastAI and Pytorch](./4_MiniVggnet/)
 
 
-### AV Practice Problems
+### Analytics Vidhya Practice Problems - [Link](https://datahack.analyticsvidhya.com/contest/all/)
 1) [Identify the Apparal](./5_Apparel/) - Using FastAI and Pytorch
 2) [Identify the Sentiment](./8_Identify_the_sentiments/) - Using FastAI and Blurr
 3) [Urban Sound Classification](./9_Urban_Sound_Classification/) - Using fastaiaudio
