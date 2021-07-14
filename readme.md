@@ -20,3 +20,4 @@ Exploring different Deep learning problems primarily (but not limited to) using 
 1) [Solving NLP tasks on Shopify data](./7_Shopify/)
     - Multi-Label Classification using single sentences - Using FastAI, Hugging Face
     - Multi-Label Classification using multiple sentences - HuggingFace
+    - Item-Item Shopify App recommendations using sentence-transformers and approximate nearest neighbor(Spotify Annoy)
