@@ -13,4 +13,5 @@ Exploration on Data from Shopify App Store.
     - [Using Hugging Face Transformers - BERT](./3_categoryClassification_usingHFTransformers.ipynb)
 3)  Multi Label Classification using title and description
     - [Using Hugging Face Transformers - BERT](./3_categoryClassification_multiSentence_usingHFTransformers.ipynb)
-4) [Item-Item Shopify App recommendations using sentence-transformers and approximate nearest neighbor(Spotify Annoy)](./4_SemanticSearchUsingHuggingFace.ipynb)
+4) App recommendations
+    - [Item-Item Shopify App recommendations using sentence-transformers and approximate nearest neighbor(Spotify Annoy)](./4_SemanticSearchUsingHuggingFace.ipynb)
